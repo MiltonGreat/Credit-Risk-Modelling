@@ -12,8 +12,8 @@ Here are some datasets that I am exploring and how I plan to apply my knowledge:
 
 **What I Did in the Project:**
 
-- **Probability of Default (PD):** Built a classification model (e.g., logistic regression, decision trees) to predict whether an individual will default or not based on their features.
-- **Retail Credit Risk Scorecards:** Developed a credit scorecard model using features like "credit history," "purpose," and "savings" to assess the creditworthiness of an individual.
+- **[Probability of Default (PD):](https://github.com/MiltonGreat/Probability-of-Default.git)** Built a classification model (e.g., logistic regression, decision trees) to predict whether an individual will default or not based on their features.
+- **[Credit Scorecards:](https://github.com/MiltonGreat/Credit-Scorecard-Model.git)** Developed a credit scorecard model using features like "credit history," "purpose," and "savings" to assess the creditworthiness of an individual.
 - **Regulatory Implications:** Implemented an IRB (Internal Ratings-Based) approach for calculating capital requirements for credit risk and simulate capital adequacy using the features in the dataset.
 - **Model Validation and Stress Testing:** Performed model validation (e.g., K-fold cross-validation, holdout validation) and stress-test the model under different economic scenarios (e.g., higher default rates).
 
@@ -26,7 +26,7 @@ Here are some datasets that I am exploring and how I plan to apply my knowledge:
 **What I Did in the Project:**
 
 - **Probability of Default (PD):** Built a machine learning model to predict the likelihood of loan default, incorporating features such as income, family size, and credit history.
-- **[Credit Scorecards:](https://github.com/MiltonGreat/Credit-Scorecard-Model.git)** Created a credit scorecard to categorize borrowers into different risk buckets (e.g., low risk, medium risk, high risk).
+- **Credit Scorecards:** Created a credit scorecard to categorize borrowers into different risk buckets (e.g., low risk, medium risk, high risk).
 - **Loss Given Default (LGD):** Built models that estimated LGD based on the applicant’s profile (e.g., loan amount, collateral).
 - **Exposure at Default (EAD):** Calculated potential exposure at the time of default using historical data to estimate the potential loss to the lender.
 
