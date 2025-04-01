@@ -15,7 +15,7 @@ Here are some datasets that I am exploring and how I plan to apply my knowledge:
 - **[Probability of Default (PD):](https://github.com/MiltonGreat/Probability-of-Default.git)** Built a classification model (e.g., logistic regression, decision trees) to predict whether an individual will default or not based on their features.
 - **[Credit Scorecards:](https://github.com/MiltonGreat/Credit-Scorecard-Model.git)** Developed a credit scorecard model using features like "credit history," "purpose," and "savings" to assess the creditworthiness of an individual.
 - **[Regulatory Implications:](https://github.com/MiltonGreat/Regulatory-Implications.git)** Implemented an IRB (Internal Ratings-Based) approach for calculating capital requirements for credit risk and simulate capital adequacy using the features in the dataset.
-- **Model Validation and Stress Testing:** Performed model validation (e.g., K-fold cross-validation, holdout validation) and stress-test the model under different economic scenarios (e.g., higher default rates).
+- **[Model Validation and Stress Testing:](https://github.com/MiltonGreat/Model-Validation-and-Stress-Testing.git)** Performed model validation (e.g., K-fold cross-validation, holdout validation) and stress-test the model under different economic scenarios (e.g., higher default rates).
 
 ### 2. Home Credit Default Risk
 
