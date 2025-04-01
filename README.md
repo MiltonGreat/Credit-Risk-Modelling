@@ -26,7 +26,7 @@ Here are some datasets that I am exploring and how I plan to apply my knowledge:
 **What I Did in the Project:**
 
 - **Probability of Default (PD):** Built a machine learning model to predict the likelihood of loan default, incorporating features such as income, family size, and credit history.
-- **Retail Credit Scorecards:** Created a credit scorecard to categorize borrowers into different risk buckets (e.g., low risk, medium risk, high risk).
+- **[Credit Scorecards:](https://github.com/MiltonGreat/Credit-Scorecard-Model.git)** Created a credit scorecard to categorize borrowers into different risk buckets (e.g., low risk, medium risk, high risk).
 - **Loss Given Default (LGD):** Built models that estimated LGD based on the applicant’s profile (e.g., loan amount, collateral).
 - **Exposure at Default (EAD):** Calculated potential exposure at the time of default using historical data to estimate the potential loss to the lender.
 
