@@ -12,7 +12,7 @@ Here are some datasets that I am exploring and how I plan to apply my knowledge:
 
 **What I Did in the Project:**
 
-- **[Probability of Default (PD):](https://github.com/MiltonGreat/Probability-of-Default.git)** Built a classification model (e.g., logistic regression, decision trees) to predict whether an individual will default or not based on their features.
+- **[Probability of Default:](https://github.com/MiltonGreat/Probability-of-Default.git)** Built a classification model (e.g., logistic regression, decision trees) to predict whether an individual will default or not based on their features.
 - **[Credit Scorecards:](https://github.com/MiltonGreat/Credit-Scorecard-Model.git)** Developed a credit scorecard model using features like "credit history," "purpose," and "savings" to assess the creditworthiness of an individual.
 - **[Regulatory Implications:](https://github.com/MiltonGreat/Regulatory-Implications.git)** Implemented an IRB (Internal Ratings-Based) approach for calculating capital requirements for credit risk and simulate capital adequacy using the features in the dataset.
 - **[Model Validation and Stress Testing:](https://github.com/MiltonGreat/Model-Validation-and-Stress-Testing.git)** Performed model validation (e.g., K-fold cross-validation, holdout validation) and stress-test the model under different economic scenarios (e.g., higher default rates).
@@ -25,10 +25,10 @@ Here are some datasets that I am exploring and how I plan to apply my knowledge:
 
 **What I Did in the Project:**
 
-- **Probability of Default (PD):** Built a machine learning model to predict the likelihood of loan default, incorporating features such as income, family size, and credit history.
+- **Probability of Default:** Built a machine learning model to predict the likelihood of loan default, incorporating features such as income, family size, and credit history.
 - **Credit Scorecards:** Created a credit scorecard to categorize borrowers into different risk buckets (e.g., low risk, medium risk, high risk).
-- **Loss Given Default (LGD):** Built models that estimated LGD based on the applicant’s profile (e.g., loan amount, collateral).
-- **Exposure at Default (EAD):** Calculated potential exposure at the time of default using historical data to estimate the potential loss to the lender.
+- **Loss Given Default:** Built models that estimated LGD based on the applicant’s profile (e.g., loan amount, collateral).
+- **Exposure at Default:** Calculated potential exposure at the time of default using historical data to estimate the potential loss to the lender.
 
 ### 3. Give Me Some Credit
 
@@ -38,7 +38,7 @@ Here are some datasets that I am exploring and how I plan to apply my knowledge:
 
 **What I Did in the Project:**
 
-- **Probability of Default (PD):** Used this dataset to build a binary classification model (good/bad credit) based on various features like credit utilization, monthly income, and loan amount.
+- **Probability of Default:** Used this dataset to build a binary classification model (good/bad credit) based on various features like credit utilization, monthly income, and loan amount.
 - **Retail Credit Risk Scorecard:** Designed a credit scorecard model and evaluate the risk level of different customers based on their financial behavior.
 - **Feature Engineering:** Created new features, such as lagged values or aggregate metrics, to enhance the model and make it more predictive.
 - **Regulatory Reporting:** Applied Basel II/III frameworks to calculate capital adequacy and perform stress testing on the data using various economic conditions.
@@ -50,9 +50,9 @@ Here are some datasets that I am exploring and how I plan to apply my knowledge:
 **Description:** This dataset contains information on loan performance, including loan amount, interest rate, loan term, borrower’s credit history, and whether the loan was repaid or defaulted.
 
 **What I Did in the Project:**
-- **Default Prediction (PD):** Used machine learning algorithms like Random Forest, XGBoost, or Neural Networks to predict default based on borrower information (e.g., credit score, loan amount, debt-to-income ratio).
-- **Loss Given Default (LGD):** Estimated LGD by looking at the loan’s collateral value and borrower’s ability to repay.
-- **Exposure at Default (EAD):** Calculated potential exposure at the time of default by combining loan amounts and other relevant borrower data.
+- **Default Prediction:** Used machine learning algorithms like Random Forest, XGBoost, or Neural Networks to predict default based on borrower information (e.g., credit score, loan amount, debt-to-income ratio).
+- **Loss Given Default:** Estimated LGD by looking at the loan’s collateral value and borrower’s ability to repay.
+- **Exposure at Default:** Calculated potential exposure at the time of default by combining loan amounts and other relevant borrower data.
 - **Model Interpretability:** Used SHAP or LIME for model interpretation and explain which features most influence the creditworthiness predictions.
 
 ### 5. Credit Card Fraud Detection
