@@ -26,7 +26,7 @@ Here are some datasets that I am exploring and how I plan to apply my knowledge:
 **What I Did in the Project:**
 
 - **[Probability of Default:](https://github.com/MiltonGreat/Give-Me-Some-Credit-Probability-of-Default.git)** Used this dataset to build a binary classification model (good/bad credit) based on various features like credit utilization, monthly income, and loan amount.
-- **Retail Credit Risk Scorecard:** Designed a credit scorecard model and evaluate the risk level of different customers based on their financial behavior.
+- **[Retail Credit Risk Scorecard:](https://github.com/MiltonGreat/Retail-Credit-Risk-Scorecard.git)** Designed a credit scorecard model and evaluate the risk level of different customers based on their financial behavior.
 - **Feature Engineering:** Created new features, such as lagged values or aggregate metrics, to enhance the model and make it more predictive.
 - **Regulatory Reporting:** Applied Basel II/III frameworks to calculate capital adequacy and perform stress testing on the data using various economic conditions.
 
