@@ -28,19 +28,7 @@ Here are some datasets that I am exploring and how I plan to apply my knowledge:
 - **[Probability of Default:](https://github.com/MiltonGreat/Give-Me-Some-Credit-Probability-of-Default.git)** Used this dataset to build a binary classification model (good/bad credit) based on various features like credit utilization, monthly income, and loan amount.
 - **[Retail Credit Risk Scorecard:](https://github.com/MiltonGreat/Retail-Credit-Risk-Scorecard.git)** Designed a credit scorecard model and evaluate the risk level of different customers based on their financial behavior.
 
-### 3. Lending Club Loan Data
-
-**Dataset:** Lending Club Loan Data
-
-**Description:** This dataset contains information on loan performance, including loan amount, interest rate, loan term, borrower’s credit history, and whether the loan was repaid or defaulted.
-
-**What I Did in the Project:**
-- **Default Prediction:** Used machine learning algorithms like Random Forest, XGBoost, or Neural Networks to predict default based on borrower information (e.g., credit score, loan amount, debt-to-income ratio).
-- **Loss Given Default:** Estimated LGD by looking at the loan’s collateral value and borrower’s ability to repay.
-- **Exposure at Default:** Calculated potential exposure at the time of default by combining loan amounts and other relevant borrower data.
-- **Model Interpretability:** Used SHAP or LIME for model interpretation and explain which features most influence the creditworthiness predictions.
-
-### 5. Credit Card Fraud Detection
+### 3. Credit Card Fraud Detection
 
 **Dataset:** Credit Card Fraud Detection
 
