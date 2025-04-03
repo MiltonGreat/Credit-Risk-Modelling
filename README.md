@@ -17,20 +17,7 @@ Here are some datasets that I am exploring and how I plan to apply my knowledge:
 - **[Regulatory Implications:](https://github.com/MiltonGreat/Regulatory-Implications.git)** Implemented an IRB (Internal Ratings-Based) approach for calculating capital requirements for credit risk and simulate capital adequacy using the features in the dataset.
 - **[Model Validation and Stress Testing:](https://github.com/MiltonGreat/Model-Validation-and-Stress-Testing.git)** Performed model validation (e.g., K-fold cross-validation, holdout validation) and stress-test the model under different economic scenarios (e.g., higher default rates).
 
-### 2. Home Credit Default Risk
-
-**Dataset:** Home Credit Default Risk
-
-**Description:** This dataset contains data from a financial services company, including information about clients, credit applications, and whether the client defaulted on a loan.
-
-**What I Did in the Project:**
-
-- **Probability of Default:** Built a machine learning model to predict the likelihood of loan default, incorporating features such as income, family size, and credit history.
-- **Credit Scorecards:** Created a credit scorecard to categorize borrowers into different risk buckets (e.g., low risk, medium risk, high risk).
-- **Loss Given Default:** Built models that estimated LGD based on the applicant’s profile (e.g., loan amount, collateral).
-- **Exposure at Default:** Calculated potential exposure at the time of default using historical data to estimate the potential loss to the lender.
-
-### 3. Give Me Some Credit
+### 2. Give Me Some Credit
 
 **Dataset:** Give Me Some Credit
 
