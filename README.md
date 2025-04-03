@@ -28,18 +28,7 @@ Here are some datasets that I am exploring and how I plan to apply my knowledge:
 - **[Probability of Default:](https://github.com/MiltonGreat/Give-Me-Some-Credit-Probability-of-Default.git)** Used this dataset to build a binary classification model (good/bad credit) based on various features like credit utilization, monthly income, and loan amount.
 - **[Retail Credit Risk Scorecard:](https://github.com/MiltonGreat/Retail-Credit-Risk-Scorecard.git)** Designed a credit scorecard model and evaluate the risk level of different customers based on their financial behavior.
 
-### 3. Credit Card Fraud Detection
-
-**Dataset:** Credit Card Fraud Detection
-
-**Description:** This dataset contains credit card transactions labeled as fraudulent or non-fraudulent. It is suitable for anomaly detection and fraud modeling.
-
-**What I Did in the Project:**
-- **Anomaly Detection:** Used anomaly detection techniques to identify outliers or suspicious transactions that may indicate fraud.
-- **Fraud Detection Models:** Built models like Isolation Forest or Autoencoders to detect unusual transactions, simulating market anomalies and risk management processes.
-- **Modeling in Risk Context:** While this dataset focuses on fraud, I use it to simulate the detection of unusual behavior that could represent credit risk and use it for credit scoring in certain scenarios.
-
-### 6. Fannie Mae Single Family Loan Performance Data
+### 3. Fannie Mae Single Family Loan Performance Data
 
 **Dataset:** Fannie Mae Loan Data
 
