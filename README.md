@@ -27,14 +27,3 @@ Here are some datasets that I am exploring and how I plan to apply my knowledge:
 
 - **[Probability of Default:](https://github.com/MiltonGreat/Give-Me-Some-Credit-Probability-of-Default.git)** Used this dataset to build a binary classification model (good/bad credit) based on various features like credit utilization, monthly income, and loan amount.
 - **[Retail Credit Risk Scorecard:](https://github.com/MiltonGreat/Retail-Credit-Risk-Scorecard.git)** Designed a credit scorecard model and evaluate the risk level of different customers based on their financial behavior.
-
-### 3. Fannie Mae Single Family Loan Performance Data
-
-**Dataset:** Fannie Mae Loan Data
-
-**Description:** This dataset contains detailed loan performance information, including features like loan-to-value ratio, borrower’s credit score, and delinquency status.
-
-**What I Did in the Project:**
-- **Risk-Based Pricing Models:** Built models that calculate risk-based pricing for loans, where the interest rate is determined based on the credit risk of the borrower.
-- **Delinquency Prediction:** Developed models that predict whether a borrower will default or become delinquent, helping improve the loan performance model.
-- **Loan Valuation:** Implemented models for assessing the value of loan portfolios based on borrower behavior, credit risk, and macroeconomic factors.
