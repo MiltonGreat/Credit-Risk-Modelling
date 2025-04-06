@@ -29,7 +29,7 @@ Here are some datasets that I am exploring and how I plan to apply my knowledge:
 - **[Retail Credit Risk Scorecard:](https://github.com/MiltonGreat/Retail-Credit-Risk-Scorecard.git)** Designed a credit scorecard model and evaluate the risk level of different customers based on their financial behavior.
 - **[Feature Engineering:](https://github.com/MiltonGreat/Give-Me-Some-Credit-Feature-Engineering.git)** Create new features, such as lagged values or aggregate metrics, to enhance the model and make it more predictive.
 
-### 3. Loan Eligibility & Fairness Analysis
+### 3. Loan Eligibility & Customer Segmentation
 
 **Dataset:** Loan Application Data
 
