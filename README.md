@@ -28,3 +28,14 @@ Here are some datasets that I am exploring and how I plan to apply my knowledge:
 - **[Probability of Default:](https://github.com/MiltonGreat/Give-Me-Some-Credit-Probability-of-Default.git)** Used this dataset to build a binary classification model (good/bad credit) based on various features like credit utilization, monthly income, and loan amount.
 - **[Retail Credit Risk Scorecard:](https://github.com/MiltonGreat/Retail-Credit-Risk-Scorecard.git)** Designed a credit scorecard model and evaluate the risk level of different customers based on their financial behavior.
 - **[Feature Engineering:](https://github.com/MiltonGreat/Give-Me-Some-Credit-Feature-Engineering.git)** Create new features, such as lagged values or aggregate metrics, to enhance the model and make it more predictive.
+
+### 3. Loan Eligibility & Fairness Analysis
+
+**Dataset:** Loan Application Data
+
+**Description:** This dataset contains applicant-level financial and demographic information typically used to determine loan eligibility.
+
+**What I Did in the Project:**
+
+- **Loan Eligibility Prediction:** Used logistic regression and random forest models to predict whether a loan would be approved based on features like ApplicantIncome, Credit_History, Education, and LoanAmount. Performed data preprocessing, imputation for missing values, and feature encoding.
+- **Customer Segmentation for Loan Targeting:** Applied K-Means clustering and PCA to group applicants based on total income, loan amount, and property area. Used cluster profiles to identify high-value customer segments for personalized marketing strategies.
