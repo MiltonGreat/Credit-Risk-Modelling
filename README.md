@@ -37,5 +37,5 @@ Here are some datasets that I am exploring and how I plan to apply my knowledge:
 
 **What I Did in the Project:**
 
-- **Loan Eligibility Prediction:** Used logistic regression and random forest models to predict whether a loan would be approved based on features like ApplicantIncome, Credit_History, Education, and LoanAmount. Performed data preprocessing, imputation for missing values, and feature encoding.
+- **[Loan Eligibility Prediction:](https://github.com/MiltonGreat/Loan-Eligibility-Prediction.git)** Used logistic regression and random forest models to predict whether a loan would be approved based on applicant income, credit history, education, and loan amount.
 - **Customer Segmentation for Loan Targeting:** Applied K-Means clustering and PCA to group applicants based on total income, loan amount, and property area. Used cluster profiles to identify high-value customer segments for personalized marketing strategies.
